@@ -1,5 +1,3 @@
-# React Native User Information App
-
 ## Overview
 This React Native application fetches and displays user data from a public API. Users can navigate between records using **Previous** and **Next** buttons or manually enter an index to jump to a specific user. The app supports smooth UI transitions, error handling, and an optimized layout for different screen sizes.
 
